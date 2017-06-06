@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test7.dir/test7.o  -o test7  -L/home/hqwu/kkk/jmuduo/build/lib  -L/home/hqwu/jmuduo/build/lib -rdynamic ../lib/libjmuduo.so -lpthread -Wl,-rpath,/home/hqwu/kkk/jmuduo/build/lib:/home/hqwu/jmuduo/build/lib 
