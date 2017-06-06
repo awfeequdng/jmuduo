@@ -4,7 +4,7 @@ imitate a net library named muduo written by ChenShuo
 
 基本写完muduo的base库和net库。
 
-模仿着写muduo库，盯着源码不如好好写一遍源码，就比较清晰了……
+模仿着写muduo库，盯着源码不如好好模仿着写一遍源码，就比较清晰了……
 
 步骤可以这么来：
 
@@ -16,4 +16,6 @@ imitate a net library named muduo written by ChenShuo
 2、自己看懂了后写一个base库
 
 3、写好了base库就可以看书的第八章写net库开始一节一节的跟着走下去了。
+
+求星星 右上角 star ☆  
 
